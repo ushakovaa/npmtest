@@ -1,0 +1,15 @@
+{
+  "name": "npmtest1234f",
+  "version": "1.0.1",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ushakovaa/npmtest.git"
+  },
+  "author": "Alex_U",
+  "license": "ISC"
+}
